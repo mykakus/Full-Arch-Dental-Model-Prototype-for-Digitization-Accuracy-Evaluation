@@ -1,0 +1,4 @@
+libigl
+scipy
+numpy
+trimesh[easy]
