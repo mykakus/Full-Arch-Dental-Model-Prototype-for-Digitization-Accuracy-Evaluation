@@ -62,9 +62,9 @@ Prerequisites:a horseshoe-shaped 3D model (preferably in .stl file format) resem
    - **SD_outliers**: Deviation between the newly modeled reference (from step 7 in the workflow) and the scan.
 
 > [!NOTE]
-- This methodology is still in its early stages and should be approached with caution.
-- The model resembles an edentulous arch and should not be used for assessment with dentulous arches.
-- Limitations:
-  - Uncertainties in object manufacturing 
-  - Unknown influences of sphere size. The default sphere radius (2.5 mm) was chosen based on previously used studies ([Pletkus 2024](https://doi.org/10.1111/jopr.13976))
-  - Presence of hard-coded thresholds in the workflow (e.g., the overlapping parameter between spheres in the Grasshopper C# block is set to 0.1 mm)
+>- This methodology is still in its early stages and should be approached with caution.
+>- The model resembles an edentulous arch and should not be used for assessment with dentulous arches.
+>- Limitations:
+>  - Uncertainties in object manufacturing 
+>  - Unknown influences of sphere size. The default sphere radius (2.5 mm) was chosen based on previously used studies ([Pletkus 2024](https://doi.org/10.1111/jopr.13976))
+>  - Presence of hard-coded thresholds in the workflow (e.g., the overlapping parameter between spheres in the Grasshopper C# block is set to 0.1 mm)
