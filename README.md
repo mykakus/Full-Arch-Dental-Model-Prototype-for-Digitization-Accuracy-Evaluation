@@ -39,7 +39,7 @@ Prerequisites:a horseshoe-shaped 3D model (preferably in .stl file format) resem
 2. Open *Model_creation/Rhinoceros_spheres_boolean.ipynb* and run before specifing in the script path where .xlsx file with sphere center coordinates resides. Scripts crates 3D object *Model_populated_with_spheres.stl*.
 3. The file *Model_populated_with_spheres.stl* (or the pre-existing model *Model_creation/Created_model/Model_populated_with_spheres_2.5mm_radius.stl*) should then be used for manufacturing and scanning.
 
-## Sphericla surface identification
+## Spherical surface identification
 1. Activate CloudComPy in conda virtual enviroment (use conda terminal)
     ```
     conda activate CloudComPy311
